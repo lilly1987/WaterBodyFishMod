@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Water Body Fish Mod</name>
+  <packageId>Lilly.WaterBodyFishMod</packageId>
+  <author>Lilly</author>
+  <supportedVersions>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>
+    모든 물고기 종류를 모든 물가에서 잡을 수 있도록 하고, 물고기 개체 수와 낚시 구역의 반복 모드를 설정합니다.
+  </description>
+</ModMetaData>

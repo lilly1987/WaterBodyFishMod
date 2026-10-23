@@ -1,0 +1,9 @@
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Source\obj\Release\WaterBodyFishMod.csproj.AssemblyReference.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Source\obj\Release\WaterBodyFishMod.GeneratedMSBuildEditorConfig.editorconfig
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Source\obj\Release\WaterBodyFishMod.AssemblyInfoInputs.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Source\obj\Release\WaterBodyFishMod.AssemblyInfo.cs
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Source\obj\Release\WaterBodyFishMod.csproj.CoreCompileInputs.cache
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Assemblies\WaterBodyFishMod.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Source\obj\Release\WaterBodyFishMod.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Source\obj\Release\refint\WaterBodyFishMod.dll
+Y:\SteamLibrary\steamapps\common\RimWorld\Mods\WaterBodyFishMod\Source\obj\Release\ref\WaterBodyFishMod.dll
