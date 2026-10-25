@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\WaterBodyFishMod.csproj": {}
+    "Y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\WaterBodyFishMod.csproj": {}
   },
   "projects": {
-    "y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\WaterBodyFishMod.csproj": {
+    "Y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\WaterBodyFishMod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\WaterBodyFishMod.csproj",
+        "projectUniqueName": "Y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\WaterBodyFishMod.csproj",
         "projectName": "WaterBodyFishMod",
-        "projectPath": "y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\WaterBodyFishMod.csproj",
+        "projectPath": "Y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\WaterBodyFishMod.csproj",
         "packagesPath": "C:\\Users\\lilly\\.nuget\\packages\\",
-        "outputPath": "y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\obj\\",
+        "outputPath": "Y:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\WaterBodyFishMod\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
